@@ -1,0 +1,37 @@
+# Custom host records are listed here.
+10.1.1.15 pi.hole
+10.1.1.12 printer.com
+10.1.1.18 envoy.com
+10.1.1.93 shield.com
+0.0.0.0 adobe.com
+0.0.0.0 adobeereg.com
+0.0.0.0 practivate.adobe
+0.0.0.0 practivate.adobe.newoa
+0.0.0.0 practivate.adobe.ntp
+0.0.0.0 practivate.adobe.ipp
+0.0.0.0 prod.adobegenuine.com
+0.0.0.0 www.adobeereg.com
+0.0.0.0 crl.verisign.net
+0.0.0.0 ood.opsource.net
+0.0.0.0 www.password-protect-folders.net
+0.0.0.0 security-host-scan-service.in
+0.0.0.0 www.newsoftwares.net
+0.0.0.0 www.bnserving.com
+0.0.0.0 exoclick.com
+0.0.0.0 adsrvmedia.net
+0.0.0.0 ochiek1.top
+0.0.0.0 linktrker.com
+0.0.0.0 adver.in
+0.0.0.0 selfporn.in
+0.0.0.0 nearsale.in
+0.0.0.0 clicksor.net
+0.0.0.0 shiek1ph.com
+0.0.0.0 adk2x.com
+0.0.0.0 hyperpromote.com
+0.0.0.0 2privacybrowsing.com
+0.0.0.0 50a2613644b96f.com
+0.0.0.0 globaladsmedia.xyz
+0.0.0.0 clickppcbuzz.com
+0.0.0.0 pixpixem.com
+0.0.0.0 sportsbet.com.au
+# End of custom host records.
