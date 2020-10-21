@@ -32,28 +32,3 @@
 0.0.0.0 sportsbet.com.au
 # End of custom host records.
 # Enforce Safe Search
-50.16.250.179 duckduckgo.com
-50.16.250.179 www.duckduckgo.com
-50.16.250.179 duck.com
-50.16.250.179 www.duck.com
-216.239.38.120 google.com
-216.239.38.120 google.com.au
-216.239.38.120 www.google.com
-216.239.38.120 www.google.com.au
-216.239.38.120 www.youtube.com
-216.239.38.120 m.youtube.com
-216.239.38.120 youtubei.googleapis.com
-216.239.38.120 youtube.googleapis.com
-216.239.38.120 www.youtube-nocookie.com
-204.79.197.220 bing.com
-204.79.197.220 www.bing.com
-2001:4860:4802:32::78 google.com
-2001:4860:4802:32::78 google.com.au
-2001:4860:4802:32::78 www.google.com
-2001:4860:4802:32::78 www.google.com.au
-2001:4860:4802:32::78 youtube.com
-2001:4860:4802:32::78 www.youtube.com
-2001:4860:4802:32::78 m.youtube.com
-2001:4860:4802:32::78 youtubei.googleapis.com
-2001:4860:4802:32::78 youtube.googleapis.com
-2001:4860:4802:32::78 www.youtube-nocookie.com
