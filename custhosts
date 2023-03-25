@@ -1,5 +1,4 @@
 # Custom host records are listed here.
-||adobe.com^
 ||adobeereg.com^
 ||practivate.adobe^
 ||practivate.adobe.newoa^
@@ -34,10 +33,7 @@
 ||onebet.com.au^
 # End of custom host records.
 
-||^
-
 #following list of https://easylist-downloads.adblockplus.org/easylist.txt as at 25 Mar 2023
-
 
 !---------------------------Third-party advertisers---------------------------!
 ! *** easylist:easylist/easylist_adservers.txt ***
@@ -4574,7 +4570,7 @@
 ||cartoonpeecommissioner.com^
 ||caruagedlr.com^
 ||carvyre.com^
-||cas.*.criteo.com^
+||criteo.com^
 ||casalemedia.com^
 ||cascadewatchful.com^
 ||casernbeings.com^
@@ -7751,7 +7747,7 @@
 ||ejcet5y9ag.com^
 ||ejdkqclkzq.com^
 ||ejectbagsindefinite.com^
-||ejghgjhhgadcdchjaada.ru.^
+||ejghgjhhgadcdchjaada.ru^
 ||ejipaifaurga.com^
 ||ejotdqfjazg.com^
 ||ejurzsax.com^
@@ -16321,7 +16317,7 @@
 ||pxfindone.com^
 ||pxglreolb.com^
 ||pxl2015x1.com^
-||pxlk9.net.^
+||pxlk9.net^
 ||pxmqdhcvpcsra.xyz^
 ||pycizury.pro^
 ||pyfqqcekcgd.xyz^
