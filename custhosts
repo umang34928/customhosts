@@ -1,34 +1,36 @@
 # Custom host records are listed here.
-0.0.0.0 adobe.com
-0.0.0.0 adobeereg.com
-0.0.0.0 practivate.adobe
-0.0.0.0 practivate.adobe.newoa
-0.0.0.0 practivate.adobe.ntp
-0.0.0.0 practivate.adobe.ipp
-0.0.0.0 prod.adobegenuine.com
-0.0.0.0 www.adobeereg.com
-0.0.0.0 crl.verisign.net
-0.0.0.0 ood.opsource.net
-0.0.0.0 www.password-protect-folders.net
-0.0.0.0 security-host-scan-service.in
-0.0.0.0 www.newsoftwares.net
-0.0.0.0 www.bnserving.com
-0.0.0.0 exoclick.com
-0.0.0.0 adsrvmedia.net
-0.0.0.0 ochiek1.top
-0.0.0.0 linktrker.com
-0.0.0.0 adver.in
-0.0.0.0 selfporn.in
-0.0.0.0 nearsale.in
-0.0.0.0 clicksor.net
-0.0.0.0 shiek1ph.com
-0.0.0.0 adk2x.com
-0.0.0.0 hyperpromote.com
-0.0.0.0 2privacybrowsing.com
-0.0.0.0 50a2613644b96f.com
-0.0.0.0 globaladsmedia.xyz
-0.0.0.0 clickppcbuzz.com
-0.0.0.0 pixpixem.com
-0.0.0.0 sportsbet.com.au
+||adobe.com^
+||adobeereg.com^
+||practivate.adobe^
+||practivate.adobe.newoa^
+||practivate.adobe.ntp^
+||practivate.adobe.ipp^
+||prod.adobegenuine.com^
+||verisign.net^
+||opsource.net^
+||password-protect-folders.net^
+||security-host-scan-service.in^
+||newsoftwares.net^
+||bnserving.com^
+||exoclick.com^
+||adsrvmedia.net^
+||ochiek1.top^
+||linktrker.com^
+||adver.in^
+||selfporn.in^
+||nearsale.in^
+||clicksor.net^
+||shiek1ph.com^
+||adk2x.com^
+||hyperpromote.com^
+||2privacybrowsing.com^
+||50a2613644b96f.com^
+||globaladsmedia.xyz^
+||clickppcbuzz.com^
+||pixpixem.com^
+||sportsbet.com.au^
+||onebet.com^
+||onebet.net^
+||onebet.com.au^
 # End of custom host records.
 # Enforce Safe Search
