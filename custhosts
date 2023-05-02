@@ -1,5 +1,34 @@
 # Custom host records are listed here.
 0.0.0.0 adobe.com
+
+||logservice.hicloud.com^
+||logservice1.hicloud.com^
+||logbak.hicloud.com^
+
+# --- OnePlus
+||click.oneplus.cn^
+||open.oneplus.net^
+
+# --- Samsung
+||samsungads.com^
+||smetrics.samsung.com^
+||nmetrics.samsung.com^
+||samsung-com.112.2o7.net^
+||analytics-api.samsunghealthcn.com^
+
+# --- Apple
+||advertising.apple.com^
+||tr.iadsdk.apple.com^
+||iadsdk.apple.com^
+||metrics.icloud.com^
+||metrics.apple.com^
+||metrics.mzstatic.com^
+||api-adservices.apple.com^
+||books-analytics-events.apple.com^
+||weather-analytics-events.apple.com^
+||notes-analytics-events.apple.com^
+
+# --- Other Custom Hosts
 ||adobeereg.com^
 ||practivate.adobe^
 ||practivate.adobe.newoa^
