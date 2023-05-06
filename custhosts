@@ -1,5 +1,9 @@
 # Custom host records are listed here.
 0.0.0.0 adobe.com
+||graph.facebook.com^
+||www.baidu.com^
+||baidu.com^
+
 
 # --- Amazon
 ||adtago.s3.amazonaws.com^
