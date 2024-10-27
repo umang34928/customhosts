@@ -331,7 +331,7 @@
 ||rtbimp-loadbalancer^
  ||applicationinsights.azure.com^
  ||firebaseio.com^
-||i.snssdk.com/log/^
+||i.snssdk.com/log^
 ||zijieapi.com^
 ||zijieapi.com^
 ||zijieapi.com^
@@ -384,7 +384,7 @@
 ||zerkalo.io^
 ||ce-global-track^
 ||yuanfudao.com^
-||collect-elb-^
+||collect-elb^
 ||ru.unblocked.lol^
 ||mp3bars.com^
 ||abtasty.com^
@@ -407,7 +407,7 @@
 ||lively-collect-elb^
 ||aliyuncs.com^
 ||tritondigital.com^
-||adswizz.com
+||adswizz.com^
 ||ozone.ru^
 ||rtb.beeline.ru^
 ||dynamicyield.com^
@@ -428,13 +428,13 @@
 ||.amemv.com^
 ||.gvt3.com^
 ||.banggood.com^
-||liveme-sensors-collect2-^
+||liveme-sensors-collect2^
 ||.byteoversea.com^
 ||.byteoversea.com^
 ||.amplitude.com^
 ||.trnox.com^
 ||.appmetrica.webvisor.com^
-||device-metrics-^
+||device-metrics^
 ||.tiktokv.us^
 ||.tiktokv.com^
 ||.previewnetworks.com^
