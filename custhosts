@@ -186,6 +186,9 @@
 ||api.mouseflow.com^
 ||tools.mouseflow.com^
 ||cdn-test.mouseflow.com^
+||cdn.mouseflow.com^
+||o2.mouseflow.com^
+||gtm.mouseflow.com^
 
 # --- FreshWorks
 ||freshmarketer.com^
