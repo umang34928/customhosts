@@ -125,15 +125,17 @@
 
 
 
-# ---  Failure of list 
-||adnow.com^
+# ---  following does not work
 ||reachableads-av
-||stat.ovh^
 ||clk.rtpdn
 ||teleriumads
 ||putrr
 ||adsrvmedia.adk2.co
 ||block.s
+
+# ---  Failure of list 
+||adnow.com^
+||stat.ovh^
 
 # --- Amazon
 ||adtago.s3.amazonaws.com^
