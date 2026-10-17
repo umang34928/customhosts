@@ -6,7 +6,6 @@
 ||aggravatingoil.com^
 ||ainouzaudre.net^
 ||alexatracker.com^
-||aliexpress.com^
 ||allbonushere.com^
 ||anothereldestprogeny.com^
 ||anteaterdriftrecast.com^
@@ -19,7 +18,6 @@
 ||backachegrudgesiamese.com^
 ||baggyrepackingrocky.com^
 ||baidu.com^
-||bazaarvoice.com^
 ||beestark.com^
 ||betterme.world^
 ||blackenoz.com^
@@ -42,10 +40,8 @@
 ||dragstergibletshaded.com^
 ||dreamshigh.life^
 ||dulugu.life^
-||etsy.com^
 ||explainplaysettwisting.com^
 ||foilunflaweduproot.com^
-||gamedistribution.com^
 ||gamemonkey.org^
 ||ginseftaub.com^
 ||girlssdoporn.com^
@@ -80,7 +76,6 @@
 ||osamamingle.com^
 ||osamanamana.com^
 ||ozjackpotzone.com^
-||playrix.com^
 ||poawooptugroo.com^
 ||pristineprinciple.com^
 ||protoolapp.online^
@@ -114,13 +109,13 @@
 
 
 
-# ---  following does not work
-||reachableads-av
-||clk.rtpdn
-||teleriumads
-||putrr
-||adsrvmedia.adk2.co
-||block.s
+# ---  following does not work hence commented
+# ||reachableads-av
+# ||clk.rtpdn
+# ||teleriumads
+# ||putrr
+# ||adsrvmedia.adk2.co
+# ||block.s
 
 # ---  Failure of list 
 ||adnow.com^
@@ -207,14 +202,14 @@
 #======= Error Trackers =======
 
 # --- Bugsnag
-||notify.bugsnag.com^
-||sessions.bugsnag.com^
-||api.bugsnag.com^
-||app.bugsnag.com^
+#||notify.bugsnag.com^
+#||sessions.bugsnag.com^
+#||api.bugsnag.com^
+#||app.bugsnag.com^
 
 # --- Sentry
-||browser.sentry-cdn.com^
-||app.getsentry.com^
+#||browser.sentry-cdn.com^
+#||app.getsentry.com^
 
 #====== Social Trackers =======
 
@@ -417,8 +412,6 @@
 ||hyprmx.com^
 ||production-adserver^
 ||rtbimp-loadbalancer^
-||applicationinsights.azure.com^
-||firebaseio.com^
 ||i.snssdk.com^
 ||zijieapi.com^
 ||zijieapi.com^
@@ -427,8 +420,6 @@
 ||convertagain.net^
 ||51.la^
 ||mediahills.ru^
-||prezly.com^
-||datadoghq.com^
 ||k5a.io^
 ||pangea-cms.com^
 ||tvsquared.com^
@@ -449,19 +440,15 @@
 ||fitanalytics.com^
 ||petametrics.com^
 ||goguardian.pusher.com^
-||a.run.app^
 ||c.blue^
 ||grafana.net^
-||hashnode.com^
 ||inews24.com^
 ||smlog.co.kr^
 ||production-public.tubi.io^
 ||karrotmarket.com^
-||transcend.io^
 ||rubiconproject.com^
 ||collector.xhamster^
 ||read.duokan.com^
-||sky.com^
 ||ettoday.net^
 ||vietnamplus.vn^
 ||uptolike.ru^
@@ -484,7 +471,6 @@
 ||geo20120530.com^
 ||geostats.ovh^
 ||geovisite.ovh^
-||gigya.com^
 ||carl-ras.dk^
 ||ncoi.nl^
 ||nti.nl^
@@ -505,7 +491,6 @@
 ||netcore.co.in^
 ||hismarttv.com^
 ||dt.hicloud.com^
-||firebaseio.com^
 ||nfl.yinzcam.com^
 ||platform.dbankcloud.cn^
 ||cloud.dbankcloud.cn^
@@ -515,7 +500,6 @@
 ||jampp.com^
 ||amemv.com^
 ||gvt3.com^
-||banggood.com^
 ||liveme-sensors-collect2^
 ||byteoversea.com^
 ||byteoversea.com^
